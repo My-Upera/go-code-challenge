@@ -1,0 +1,1 @@
+CREATE TABLE shoes(shoe_id SERIAL PRIMARY KEY,shoe_name varchar(20),shoe_sizes INT []);
