@@ -15,4 +15,6 @@ you can think of gorotuines as computation nodes.
 write a simple create CRUD api for the "shoes" table using echo library as router and postgres as your database with the database driver of your choice.
 the goal of this task is to challenge your familiarity with common best practices for example : project architecture, logging, security best practice and ....  
 
+a connection string will be given to you during the interview , please do note that the migration file has already been executed on the database.
+
 you can search or read documentations while writing these programs.
